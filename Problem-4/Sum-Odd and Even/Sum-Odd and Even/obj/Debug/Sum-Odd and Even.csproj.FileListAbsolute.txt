@@ -1,0 +1,7 @@
+C:\Users\Tanvir\Documents\C# Task\Problem-4\Sum-Odd and Even\Sum-Odd and Even\bin\Debug\Sum-Odd and Even.exe.config
+C:\Users\Tanvir\Documents\C# Task\Problem-4\Sum-Odd and Even\Sum-Odd and Even\bin\Debug\Sum-Odd and Even.exe
+C:\Users\Tanvir\Documents\C# Task\Problem-4\Sum-Odd and Even\Sum-Odd and Even\bin\Debug\Sum-Odd and Even.pdb
+C:\Users\Tanvir\Documents\C# Task\Problem-4\Sum-Odd and Even\Sum-Odd and Even\obj\Debug\Sum-Odd and Even.csprojAssemblyReference.cache
+C:\Users\Tanvir\Documents\C# Task\Problem-4\Sum-Odd and Even\Sum-Odd and Even\obj\Debug\Sum-Odd and Even.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir\Documents\C# Task\Problem-4\Sum-Odd and Even\Sum-Odd and Even\obj\Debug\Sum-Odd and Even.exe
+C:\Users\Tanvir\Documents\C# Task\Problem-4\Sum-Odd and Even\Sum-Odd and Even\obj\Debug\Sum-Odd and Even.pdb
