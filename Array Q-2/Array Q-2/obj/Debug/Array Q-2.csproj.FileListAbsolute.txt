@@ -1,0 +1,7 @@
+C:\Users\Tanvir\Documents\C# Task\Array Q-2\Array Q-2\bin\Debug\Array Q-2.exe.config
+C:\Users\Tanvir\Documents\C# Task\Array Q-2\Array Q-2\bin\Debug\Array Q-2.exe
+C:\Users\Tanvir\Documents\C# Task\Array Q-2\Array Q-2\bin\Debug\Array Q-2.pdb
+C:\Users\Tanvir\Documents\C# Task\Array Q-2\Array Q-2\obj\Debug\Array Q-2.csprojAssemblyReference.cache
+C:\Users\Tanvir\Documents\C# Task\Array Q-2\Array Q-2\obj\Debug\Array Q-2.csproj.CoreCompileInputs.cache
+C:\Users\Tanvir\Documents\C# Task\Array Q-2\Array Q-2\obj\Debug\Array Q-2.exe
+C:\Users\Tanvir\Documents\C# Task\Array Q-2\Array Q-2\obj\Debug\Array Q-2.pdb
